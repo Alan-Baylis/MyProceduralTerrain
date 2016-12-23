@@ -1,7 +1,7 @@
 # MyProceduralTerrain
 This is a project for infite procedural terrain, path, and location creation in Unity3D.
 
-1. Things I wish to do
+### Things I wish to do
 2. Implement terrain generation using OpenSimplex noise
 3. Refine terrain generation using a Quadtree LOD system
   * This needs to be as efficient as possible. Get it working first, but probably will have a lot of optimization here.
@@ -13,7 +13,7 @@ This is a project for infite procedural terrain, path, and location creation in 
 
 Overall, the goal is to make an infinite procedural world.
 
-Later tasks
+### Later tasks
 1. Location population.
   * Locations need to be populated with structures and inhabitants.
   * This will likely delve deeper into generation, such as generating buildings, then the rooms inside them, then the contents of those rooms.
